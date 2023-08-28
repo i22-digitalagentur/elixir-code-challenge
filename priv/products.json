@@ -1,0 +1,8016 @@
+[
+  {
+    "ean": "74c990f5-8a46-41a0-8e8e-ac462cb7f5f4",
+    "name": "i22 Phone 2001_red",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 1
+  },
+  {
+    "ean": "19319b6b-0c54-4289-85c1-d41fc3bbd443",
+    "name": "i22 Phone 2001_blue",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 3
+  },
+  {
+    "ean": "f0632ee5-229c-465c-852c-2ff60909a8c9",
+    "name": "i22 Phone 2001_teal",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 7
+  },
+  {
+    "ean": "0ad6f5dc-3e28-43d7-bd40-f7bfda2d9871",
+    "name": "i22 Phone 2001_silver",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 2
+  },
+  {
+    "ean": "66d2b7d6-eb38-4a27-92a9-3a1c9d9d5a93",
+    "name": "i22 Phone 2001_black",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 9
+  },
+  {
+    "ean": "22d3267a-37a0-44f6-9919-6b69415c14e9",
+    "name": "i22 Phone 2001_gold",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 4
+  },
+  {
+    "ean": "f10fb761-934f-492f-b045-4343a992c4ea",
+    "name": "i22 Phone 2001_transparent",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 3
+  },
+  {
+    "ean": "394c0a2a-5cca-4ed1-a14d-b9fdf5370fe1",
+    "name": "i22 Watch 2001_red",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "4a65a0f5-488f-4fec-b60b-c42f17c18943",
+    "name": "i22 Watch 2001_blue",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 4
+  },
+  {
+    "ean": "1cf62015-e5cb-400c-8d02-f39b389797b6",
+    "name": "i22 Watch 2001_teal",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 9
+  },
+  {
+    "ean": "0cc0bc22-f1b8-4081-b77d-50e3f7a31508",
+    "name": "i22 Watch 2001_silver",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 2
+  },
+  {
+    "ean": "806b1a56-b966-4a8d-85a2-aa4017cb12fa",
+    "name": "i22 Watch 2001_black",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 7
+  },
+  {
+    "ean": "d3aeea89-7903-41fb-8ff0-d63c17d5e124",
+    "name": "i22 Watch 2001_gold",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 4
+  },
+  {
+    "ean": "a65f4778-d2d5-4b22-b526-a8d027c30aaf",
+    "name": "i22 Watch 2001_transparent",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "bacd494a-a4b6-4c1d-ba95-2fad92c9c714",
+    "name": "i22 Glass 2001_red",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 5
+  },
+  {
+    "ean": "62a07f47-ca94-4192-8b51-1734e3eff6f8",
+    "name": "i22 Glass 2001_blue",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 9
+  },
+  {
+    "ean": "eed5215d-c805-4a81-8b19-65194f756d63",
+    "name": "i22 Glass 2001_teal",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 9
+  },
+  {
+    "ean": "17e10d8a-5fbb-4d2d-9a94-86991548e06e",
+    "name": "i22 Glass 2001_silver",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 1
+  },
+  {
+    "ean": "d338b4a1-b840-43c9-a4e5-0f1ee9d68e8a",
+    "name": "i22 Glass 2001_black",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "infinite"
+    },
+    "stock": 8
+  },
+  {
+    "ean": "0be9074d-9c52-4b17-b7e9-26838e040aa4",
+    "name": "i22 Glass 2001_gold",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015,
+      "was": 345172
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 4
+  },
+  {
+    "ean": "23897a56-994c-4daf-b5fe-2f0f01a5b2bd",
+    "name": "i22 Glass 2001_transparent",
+    "releaseYear": 2001,
+    "price": {
+      "current": 30015
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "c8e50bb3-4263-463e-88d3-4bd4fbe5932c",
+    "name": "i22 Phone 2002_red",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 4
+  },
+  {
+    "ean": "826398e3-aa2d-4620-998d-f629c60011a1",
+    "name": "i22 Phone 2002_blue",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "f4c8b3ea-e868-48e1-945c-fed8cfb2e327",
+    "name": "i22 Phone 2002_teal",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 10
+  },
+  {
+    "ean": "421d7789-93e0-4e42-854e-c7ca4bf56f80",
+    "name": "i22 Phone 2002_silver",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 16
+  },
+  {
+    "ean": "b994ff73-8d4e-4a9a-8f20-c0401289573f",
+    "name": "i22 Phone 2002_black",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 14
+  },
+  {
+    "ean": "f08649e3-569d-4245-8d35-8280e340e81d",
+    "name": "i22 Phone 2002_gold",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 18
+  },
+  {
+    "ean": "05d27727-3396-44fb-9283-0ab35f793214",
+    "name": "i22 Phone 2002_transparent",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 6
+  },
+  {
+    "ean": "ec7a6688-c349-46b9-a889-5003ceac1f42",
+    "name": "i22 Watch 2002_red",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 10
+  },
+  {
+    "ean": "e4418371-2ae9-48c4-a432-a501dea22d28",
+    "name": "i22 Watch 2002_blue",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "7056eb4e-2aee-4ab7-b15c-2122d8357df5",
+    "name": "i22 Watch 2002_teal",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "870207bb-4589-4a36-813d-b93c57749bd7",
+    "name": "i22 Watch 2002_silver",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 6
+  },
+  {
+    "ean": "e15f7c4b-a8f5-4cec-b271-cbdfde078c9b",
+    "name": "i22 Watch 2002_black",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 18
+  },
+  {
+    "ean": "a7c56e49-a549-4ccf-b4d1-e4acab8bc274",
+    "name": "i22 Watch 2002_gold",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 8
+  },
+  {
+    "ean": "78dd8cc5-029a-46de-9829-abf73c7a1b31",
+    "name": "i22 Watch 2002_transparent",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 6
+  },
+  {
+    "ean": "a96849c6-b609-4b8e-bcd3-b17cde7d535f",
+    "name": "i22 Glass 2002_red",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 2
+  },
+  {
+    "ean": "5b49dfa4-3f57-4377-8304-ae9a9986c700",
+    "name": "i22 Glass 2002_blue",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 10
+  },
+  {
+    "ean": "59d560ad-40df-40ed-bc0f-67cb24b3ccbc",
+    "name": "i22 Glass 2002_teal",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 8
+  },
+  {
+    "ean": "ce5c1f54-9910-4ff8-b505-16431cc3dbd7",
+    "name": "i22 Glass 2002_silver",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 2
+  },
+  {
+    "ean": "c8302fda-755f-407a-bb46-6a92cf2b5384",
+    "name": "i22 Glass 2002_black",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "c7f0ff94-57a2-4b9c-b042-5e841fd096ca",
+    "name": "i22 Glass 2002_gold",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 6
+  },
+  {
+    "ean": "c6203231-7d5c-48ca-90ad-0b089e115a94",
+    "name": "i22 Glass 2002_transparent",
+    "releaseYear": 2002,
+    "price": {
+      "current": 30030,
+      "was": 345345
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "b95bdbe2-d8ae-400d-8b25-179637c3f568",
+    "name": "i22 Phone 2003_red",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 18
+  },
+  {
+    "ean": "252baabc-f6ec-4032-8b4a-04958f91d200",
+    "name": "i22 Phone 2003_blue",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 9
+  },
+  {
+    "ean": "e5a6fbc0-baeb-4780-91c7-b1d695f68ca0",
+    "name": "i22 Phone 2003_teal",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 18
+  },
+  {
+    "ean": "1d511b52-81e9-4279-86a6-23b32c83e5dc",
+    "name": "i22 Phone 2003_silver",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 24
+  },
+  {
+    "ean": "86ecf1fc-048f-4456-9975-016473ffc045",
+    "name": "i22 Phone 2003_black",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 3
+  },
+  {
+    "ean": "138fc6eb-5203-4087-b5ba-2a199a8c63f0",
+    "name": "i22 Phone 2003_gold",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 15
+  },
+  {
+    "ean": "19c51601-1b41-4a7b-803d-6f90f5dd918c",
+    "name": "i22 Phone 2003_transparent",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 24
+  },
+  {
+    "ean": "5e67deff-c66e-4e72-9cd4-c6987a26a495",
+    "name": "i22 Watch 2003_red",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 18
+  },
+  {
+    "ean": "715fd858-093d-4e4b-ad4e-05355536e79b",
+    "name": "i22 Watch 2003_blue",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 18
+  },
+  {
+    "ean": "ef051b82-b989-4392-8ace-a3f1632c06d6",
+    "name": "i22 Watch 2003_teal",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 9
+  },
+  {
+    "ean": "ecca545b-d130-45a0-ae26-1d75c18c6662",
+    "name": "i22 Watch 2003_silver",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 3
+  },
+  {
+    "ean": "921ec05c-5a33-4c0f-8681-9b0dda575dbd",
+    "name": "i22 Watch 2003_black",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 24
+  },
+  {
+    "ean": "d8e04e20-21a6-4faf-9d4a-621314a7a157",
+    "name": "i22 Watch 2003_gold",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 21
+  },
+  {
+    "ean": "d4aa4f9d-01a3-49d0-b4ed-d599ca47cedd",
+    "name": "i22 Watch 2003_transparent",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 9
+  },
+  {
+    "ean": "32dfa681-d6cb-4738-987a-0125953a1442",
+    "name": "i22 Glass 2003_red",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 6
+  },
+  {
+    "ean": "46787468-0223-49b8-9e23-030187035528",
+    "name": "i22 Glass 2003_blue",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "1bc4f686-553a-4c79-8d00-4fbc34a73027",
+    "name": "i22 Glass 2003_teal",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 3
+  },
+  {
+    "ean": "a4eac7b1-36ba-4e33-92be-6e0c8f4d625a",
+    "name": "i22 Glass 2003_silver",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "fce025bc-177f-4d35-b861-8ac5fa5c8e73",
+    "name": "i22 Glass 2003_black",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 15
+  },
+  {
+    "ean": "cc14fab1-1dfe-4108-a68a-ca5adf03b4c4",
+    "name": "i22 Glass 2003_gold",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 3
+  },
+  {
+    "ean": "784b1b89-c29a-4d32-9752-4c6528b17006",
+    "name": "i22 Glass 2003_transparent",
+    "releaseYear": 2003,
+    "price": {
+      "current": 30045,
+      "was": 345517
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 9
+  },
+  {
+    "ean": "3e2e95e5-03fd-41d8-ab26-a7e4fa7bb67d",
+    "name": "i22 Phone 2004_red",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 36
+  },
+  {
+    "ean": "86b12356-ee64-46a8-9670-2eeb80f78454",
+    "name": "i22 Phone 2004_blue",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 28
+  },
+  {
+    "ean": "dbf8d8de-9aac-4d6f-abf6-9ac52a453126",
+    "name": "i22 Phone 2004_teal",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 16
+  },
+  {
+    "ean": "0c9dccf0-fe82-4a3d-ac45-e593bffaf8ce",
+    "name": "i22 Phone 2004_silver",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 4
+  },
+  {
+    "ean": "fc6f38c5-821f-49d4-87a1-31d7042271f4",
+    "name": "i22 Phone 2004_black",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 28
+  },
+  {
+    "ean": "586b3061-6cbd-4b7e-9579-06c7e69410fd",
+    "name": "i22 Phone 2004_gold",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 16
+  },
+  {
+    "ean": "54e6f065-5019-4f6d-a901-79d0e567d2fe",
+    "name": "i22 Phone 2004_transparent",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 36
+  },
+  {
+    "ean": "04119173-089d-4da2-98ec-19f16c22c4ca",
+    "name": "i22 Watch 2004_red",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 4
+  },
+  {
+    "ean": "bd670de6-5140-44a5-9fea-64e6a24b1d21",
+    "name": "i22 Watch 2004_blue",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 32
+  },
+  {
+    "ean": "ef6afde5-8b5d-46d0-8e73-b266639b5c5a",
+    "name": "i22 Watch 2004_teal",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 28
+  },
+  {
+    "ean": "b69b03e7-a9dd-4567-ac07-e355cd0ca3fa",
+    "name": "i22 Watch 2004_silver",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "9b8067ca-9d55-4e11-991e-53a5e2764595",
+    "name": "i22 Watch 2004_black",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 32
+  },
+  {
+    "ean": "0b65d03e-7e41-4f1a-9aa2-5b566ac56e8a",
+    "name": "i22 Watch 2004_gold",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 24
+  },
+  {
+    "ean": "5652b9ee-de3c-42e3-86b5-53345e4908c5",
+    "name": "i22 Watch 2004_transparent",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 32
+  },
+  {
+    "ean": "d8ea9caf-07c6-4237-91f6-33edd7e9d715",
+    "name": "i22 Glass 2004_red",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "eca40e10-c7f4-4e60-8709-3d9a7e5a93c8",
+    "name": "i22 Glass 2004_blue",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 24
+  },
+  {
+    "ean": "54fe47b2-37a6-47fd-b212-7bcd65faa67b",
+    "name": "i22 Glass 2004_teal",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 8
+  },
+  {
+    "ean": "5082cf3c-fa1a-45f1-b841-33b2a6ffae79",
+    "name": "i22 Glass 2004_silver",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 36
+  },
+  {
+    "ean": "439f0741-552b-4eff-a4f3-02b65443420c",
+    "name": "i22 Glass 2004_black",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "8d7f4526-e343-4530-b3b7-8efdbb199dad",
+    "name": "i22 Glass 2004_gold",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060,
+      "was": 345690
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 4
+  },
+  {
+    "ean": "5a2e8d48-7a5e-44e8-92bd-f83b2a04e968",
+    "name": "i22 Glass 2004_transparent",
+    "releaseYear": 2004,
+    "price": {
+      "current": 30060
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "b2a6949d-bd3d-4d91-ac02-146e52bc87fb",
+    "name": "i22 Phone 2005_red",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 25
+  },
+  {
+    "ean": "e487d86d-f944-453f-89f9-0f524f97d50c",
+    "name": "i22 Phone 2005_blue",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "bb380f1b-8c56-4239-bfba-397f05f661c2",
+    "name": "i22 Phone 2005_teal",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 35
+  },
+  {
+    "ean": "9a27c2c2-56c6-45b3-80ea-2e1e95516f08",
+    "name": "i22 Phone 2005_silver",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 30
+  },
+  {
+    "ean": "a29d99ff-0db7-48ad-9b1b-70c5ceff16a4",
+    "name": "i22 Phone 2005_black",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "c4482373-1b93-4a01-98a3-1b586d9bf69c",
+    "name": "i22 Phone 2005_gold",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "0334d784-fe73-4449-8d9f-43b76cd5116b",
+    "name": "i22 Phone 2005_transparent",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 15
+  },
+  {
+    "ean": "6a4a61c0-af89-416c-a3c3-fb532605851f",
+    "name": "i22 Watch 2005_red",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 30
+  },
+  {
+    "ean": "150582c5-2a66-4797-a457-019db778a795",
+    "name": "i22 Watch 2005_blue",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 10
+  },
+  {
+    "ean": "34717f7d-d9ed-4bd8-b14a-91b54233f6f4",
+    "name": "i22 Watch 2005_teal",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 20
+  },
+  {
+    "ean": "a7da4a12-0a7f-4fa0-9899-4f36cedd3679",
+    "name": "i22 Watch 2005_silver",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "c8c4d507-3fef-42db-aedf-933b80a3654c",
+    "name": "i22 Watch 2005_black",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 35
+  },
+  {
+    "ean": "52409a94-1915-4195-a757-06591b83625e",
+    "name": "i22 Watch 2005_gold",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 15
+  },
+  {
+    "ean": "364e322a-5269-4276-8ca9-20b5de153eec",
+    "name": "i22 Watch 2005_transparent",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 15
+  },
+  {
+    "ean": "84af4903-4173-454d-8d93-9da4281b5108",
+    "name": "i22 Glass 2005_red",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "infinite"
+    },
+    "stock": 5
+  },
+  {
+    "ean": "1cb13ccf-5b88-41e0-8325-6402ae078e0b",
+    "name": "i22 Glass 2005_blue",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 25
+  },
+  {
+    "ean": "56f80e0a-17ab-4dad-a6b6-b257effdf206",
+    "name": "i22 Glass 2005_teal",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 40
+  },
+  {
+    "ean": "0eacee3d-256c-49ec-872d-a6f19b4f0179",
+    "name": "i22 Glass 2005_silver",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "12547dbe-4264-49b8-9ccd-7327281a952e",
+    "name": "i22 Glass 2005_black",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "5e2b5d88-b51e-4471-a15a-bd15df8c5044",
+    "name": "i22 Glass 2005_gold",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 30
+  },
+  {
+    "ean": "cf4618ae-28e6-41e4-a70e-10b319197afd",
+    "name": "i22 Glass 2005_transparent",
+    "releaseYear": 2005,
+    "price": {
+      "current": 30075,
+      "was": 345862
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 20
+  },
+  {
+    "ean": "2682c5a5-0796-4e02-b9ad-18ac11596362",
+    "name": "i22 Phone 2006_red",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "238dadd1-259c-4739-a0ae-fe303d7c08e5",
+    "name": "i22 Phone 2006_blue",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 6
+  },
+  {
+    "ean": "fbb8f523-74f5-4ab1-acd5-be172bfd4f46",
+    "name": "i22 Phone 2006_teal",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "2301d904-566e-4a2f-87e0-1cc9dbeb59b2",
+    "name": "i22 Phone 2006_silver",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 6
+  },
+  {
+    "ean": "b9063cdc-532f-4a7f-874c-4c9d3aaea7e2",
+    "name": "i22 Phone 2006_black",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 54
+  },
+  {
+    "ean": "db893383-ba24-4a1c-a761-a358eb390f52",
+    "name": "i22 Phone 2006_gold",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 6
+  },
+  {
+    "ean": "1c4c7361-143b-4c1d-8a48-d8265f208f89",
+    "name": "i22 Phone 2006_transparent",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "31b9e7f9-5b36-4573-a641-7a0866d72320",
+    "name": "i22 Watch 2006_red",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "b09e9225-f85a-49bc-8f43-af7950b8051a",
+    "name": "i22 Watch 2006_blue",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "caa3f7fc-0b88-4295-a989-fb1b6ee7be62",
+    "name": "i22 Watch 2006_teal",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 36
+  },
+  {
+    "ean": "7324b696-8a69-4e0f-99c1-e2c25fba12fc",
+    "name": "i22 Watch 2006_silver",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "ce24f7ea-74ab-4cc7-b6a1-849870ded392",
+    "name": "i22 Watch 2006_black",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 6
+  },
+  {
+    "ean": "c33b5991-c902-491a-80e3-81fbcaa50980",
+    "name": "i22 Watch 2006_gold",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 42
+  },
+  {
+    "ean": "4c0e6a80-69f9-4d6b-8d44-0703ad5ff690",
+    "name": "i22 Watch 2006_transparent",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 54
+  },
+  {
+    "ean": "d4bfef46-8498-45d3-b091-aabaa6f058b3",
+    "name": "i22 Glass 2006_red",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 42
+  },
+  {
+    "ean": "fb715627-c344-4444-a56a-17650181b090",
+    "name": "i22 Glass 2006_blue",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "4c699a2c-8240-4efb-841e-92ac0cbe81c4",
+    "name": "i22 Glass 2006_teal",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 30
+  },
+  {
+    "ean": "990d940c-a506-4360-b976-0598cde2b9c3",
+    "name": "i22 Glass 2006_silver",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 6
+  },
+  {
+    "ean": "19633153-1a42-4ac6-95f6-2f695a80ed66",
+    "name": "i22 Glass 2006_black",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "75ef4298-a39b-4e99-baaa-d17ddd2c5066",
+    "name": "i22 Glass 2006_gold",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 42
+  },
+  {
+    "ean": "981b163e-e8b0-4b95-9c84-673f34abb7f2",
+    "name": "i22 Glass 2006_transparent",
+    "releaseYear": 2006,
+    "price": {
+      "current": 30090,
+      "was": 346035
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "3cd00076-1666-4c2c-83c3-944262568296",
+    "name": "i22 Phone 2007_red",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "15c5cc5b-3612-49b3-8e07-366742cfb896",
+    "name": "i22 Phone 2007_blue",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 28
+  },
+  {
+    "ean": "f88b5512-ff81-4a96-a3c5-4dfbbee0194a",
+    "name": "i22 Phone 2007_teal",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 21
+  },
+  {
+    "ean": "528a4a16-dd97-4b5d-9078-c2647cb0c718",
+    "name": "i22 Phone 2007_silver",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 28
+  },
+  {
+    "ean": "94bf1179-3793-4288-82d6-e9a4132b364f",
+    "name": "i22 Phone 2007_black",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "c044e3d1-07ef-43ad-8a5f-8cde851ff39b",
+    "name": "i22 Phone 2007_gold",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 35
+  },
+  {
+    "ean": "4ee320b1-d35f-42f8-b63a-4dcf8809ee93",
+    "name": "i22 Phone 2007_transparent",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 28
+  },
+  {
+    "ean": "6f494519-d0f6-4189-b759-7c3297dd1e92",
+    "name": "i22 Watch 2007_red",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 7
+  },
+  {
+    "ean": "ad32e83d-77e1-4e2c-89c3-43ad6c1560b2",
+    "name": "i22 Watch 2007_blue",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 7
+  },
+  {
+    "ean": "1a5d84ad-d564-4ebf-bc7a-ee6d5c197ab5",
+    "name": "i22 Watch 2007_teal",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 63
+  },
+  {
+    "ean": "c6d00bce-f2e2-4be8-af4e-01a20d0434a7",
+    "name": "i22 Watch 2007_silver",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 21
+  },
+  {
+    "ean": "c0377ca2-3a15-4e08-a7d6-07d027eda020",
+    "name": "i22 Watch 2007_black",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 28
+  },
+  {
+    "ean": "56053640-49e8-4a12-9dbf-6b4ace31af83",
+    "name": "i22 Watch 2007_gold",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 42
+  },
+  {
+    "ean": "2a9350c3-422f-4a06-a038-c25eb5db9588",
+    "name": "i22 Watch 2007_transparent",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 63
+  },
+  {
+    "ean": "9c70f875-f2f6-48e4-b7a8-c952afcd8a22",
+    "name": "i22 Glass 2007_red",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 21
+  },
+  {
+    "ean": "0025c05e-49a1-4a5e-8094-94879919ab72",
+    "name": "i22 Glass 2007_blue",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 7
+  },
+  {
+    "ean": "8bf5f5cd-e789-447f-ad9d-80b9c392bbd3",
+    "name": "i22 Glass 2007_teal",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 49
+  },
+  {
+    "ean": "3cd61391-ba2c-4f9d-97c6-d70ac16719e5",
+    "name": "i22 Glass 2007_silver",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "dd1c8584-d370-4fa3-a788-f7c3d7b6e344",
+    "name": "i22 Glass 2007_black",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "63b8adb5-3939-41aa-a115-a0c4565393a4",
+    "name": "i22 Glass 2007_gold",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 49
+  },
+  {
+    "ean": "0683d948-8c4e-4326-b209-d3f1272d1548",
+    "name": "i22 Glass 2007_transparent",
+    "releaseYear": 2007,
+    "price": {
+      "current": 30105,
+      "was": 346207
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 21
+  },
+  {
+    "ean": "29b531ea-4d66-47ed-8765-22106e57d33d",
+    "name": "i22 Phone 2008_red",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 72
+  },
+  {
+    "ean": "d70b7f15-0af1-4f74-887a-e1bd2cb8a41a",
+    "name": "i22 Phone 2008_blue",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "e780d555-373b-4222-98c8-8889a43dc66a",
+    "name": "i22 Phone 2008_teal",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 16
+  },
+  {
+    "ean": "0fad9fec-54d9-49ef-bad8-c57d97d3f147",
+    "name": "i22 Phone 2008_silver",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 8
+  },
+  {
+    "ean": "f4d75a47-c63b-4675-b0d1-96aae9089587",
+    "name": "i22 Phone 2008_black",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "659a16e1-2ed3-4933-a0fd-bbfde85364c2",
+    "name": "i22 Phone 2008_gold",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 32
+  },
+  {
+    "ean": "634b06dc-8ab3-44f0-8646-f0e31a097e49",
+    "name": "i22 Phone 2008_transparent",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "fc6f8413-95bc-4afb-a334-6ee9b0ec9407",
+    "name": "i22 Watch 2008_red",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 24
+  },
+  {
+    "ean": "e0a87b53-4218-4edd-b1da-f2acd1447313",
+    "name": "i22 Watch 2008_blue",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 32
+  },
+  {
+    "ean": "dcb30a95-600a-4445-96f3-7e7b5aa4b84a",
+    "name": "i22 Watch 2008_teal",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "84c407bb-3376-4b3e-82c0-30c8efbc7313",
+    "name": "i22 Watch 2008_silver",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 40
+  },
+  {
+    "ean": "c847ca65-de55-4819-9963-f0ae150b2ffd",
+    "name": "i22 Watch 2008_black",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 16
+  },
+  {
+    "ean": "6a75f292-6a80-4e84-a09f-847196f07650",
+    "name": "i22 Watch 2008_gold",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "6167e4c0-33f7-4716-bab2-3adae4ae9b4d",
+    "name": "i22 Watch 2008_transparent",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "293b191e-da1d-4493-b671-c1dfaca0dc3a",
+    "name": "i22 Glass 2008_red",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 16
+  },
+  {
+    "ean": "0f2a4c9d-6164-46e4-9442-13a2b8fae91a",
+    "name": "i22 Glass 2008_blue",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "57693771-0b0c-451b-ac11-cca970e0130f",
+    "name": "i22 Glass 2008_teal",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "84684e31-a895-4faa-8d7d-6bd58b331fb5",
+    "name": "i22 Glass 2008_silver",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "9a6d8de4-075a-46be-8bc1-e40fbdff11f6",
+    "name": "i22 Glass 2008_black",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "42fd01ac-1903-41a3-8b77-09045fdef1a9",
+    "name": "i22 Glass 2008_gold",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "infinite"
+    },
+    "stock": 32
+  },
+  {
+    "ean": "d0451f39-b14d-4812-8fbe-000c559ca94d",
+    "name": "i22 Glass 2008_transparent",
+    "releaseYear": 2008,
+    "price": {
+      "current": 30120,
+      "was": 346380
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 72
+  },
+  {
+    "ean": "f8c1d461-178e-4458-9202-c07bc21d1568",
+    "name": "i22 Phone 2009_red",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "566c9416-1fb2-44ba-ac07-c72beb68976d",
+    "name": "i22 Phone 2009_blue",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "abe3ceaa-8945-42a1-8b15-f22d9789114c",
+    "name": "i22 Phone 2009_teal",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 72
+  },
+  {
+    "ean": "f8032638-34ed-445f-814a-18ddb1bcb7d1",
+    "name": "i22 Phone 2009_silver",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 18
+  },
+  {
+    "ean": "26b06bba-7f30-4d04-8f25-e6f63701c6fd",
+    "name": "i22 Phone 2009_black",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 9
+  },
+  {
+    "ean": "dc4d19f3-cb55-45d0-b450-0856f9000594",
+    "name": "i22 Phone 2009_gold",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 54
+  },
+  {
+    "ean": "e8e63e11-e7d1-4cc4-b112-855eef19f191",
+    "name": "i22 Phone 2009_transparent",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 36
+  },
+  {
+    "ean": "dbbd20f9-408a-4042-bda1-02b728a0107a",
+    "name": "i22 Watch 2009_red",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 63
+  },
+  {
+    "ean": "dfbcfb35-f577-40c0-89ec-fc50806e3723",
+    "name": "i22 Watch 2009_blue",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "3498265e-2718-427c-8029-ac6cad897611",
+    "name": "i22 Watch 2009_teal",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 18
+  },
+  {
+    "ean": "d238cedc-ac10-4c6f-a0bb-9319ab1b6665",
+    "name": "i22 Watch 2009_silver",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 63
+  },
+  {
+    "ean": "a35f8d98-9c60-4dac-b9a3-d9268d16b3b6",
+    "name": "i22 Watch 2009_black",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 27
+  },
+  {
+    "ean": "209d214f-f5b3-4dac-a629-f3fcdaf37cba",
+    "name": "i22 Watch 2009_gold",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 81
+  },
+  {
+    "ean": "34020e6d-c5fe-4c9c-b3cd-55019c2224a9",
+    "name": "i22 Watch 2009_transparent",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "e4a2f18a-6a36-432d-878a-809d9418ff8b",
+    "name": "i22 Glass 2009_red",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "d6d9dfed-3c01-40e3-9db4-9a42650d9fff",
+    "name": "i22 Glass 2009_blue",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 27
+  },
+  {
+    "ean": "4cafaf92-e2ea-4dac-83b6-44d71da6929e",
+    "name": "i22 Glass 2009_teal",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 81
+  },
+  {
+    "ean": "853b0c7a-0b6b-4790-a437-e794e06cc76a",
+    "name": "i22 Glass 2009_silver",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "9c0a2ba7-463b-4832-85dc-d37b6a61bcdd",
+    "name": "i22 Glass 2009_black",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 18
+  },
+  {
+    "ean": "a460c796-0d9f-4b2e-b99e-3720f254b785",
+    "name": "i22 Glass 2009_gold",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 54
+  },
+  {
+    "ean": "9957c636-a339-45ce-890c-4d972c70f888",
+    "name": "i22 Glass 2009_transparent",
+    "releaseYear": 2009,
+    "price": {
+      "current": 30135,
+      "was": 346552
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 9
+  },
+  {
+    "ean": "03d0db5b-5a2c-4f1d-b130-0f90c28d8df1",
+    "name": "i22 Phone 2010_red",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "2a62fc52-e13f-492b-88cf-4a76390e73b2",
+    "name": "i22 Phone 2010_blue",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 10
+  },
+  {
+    "ean": "f3df3151-55de-4915-80ae-f447e8eaa7f9",
+    "name": "i22 Phone 2010_teal",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 10
+  },
+  {
+    "ean": "f5a694df-55d4-46b7-9ef2-7b503faa6443",
+    "name": "i22 Phone 2010_silver",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "4b54c117-0bfe-4f45-b21b-09b94bfffdf3",
+    "name": "i22 Phone 2010_black",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 90
+  },
+  {
+    "ean": "065092fa-98f5-4111-975f-bd5aec1a7ca4",
+    "name": "i22 Phone 2010_gold",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "f1c58cb0-34cf-4396-b8da-d1373f4083aa",
+    "name": "i22 Phone 2010_transparent",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 50
+  },
+  {
+    "ean": "054c6c44-a396-4aa8-a5a7-d93d5d4e461d",
+    "name": "i22 Watch 2010_red",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 60
+  },
+  {
+    "ean": "d30fc669-be40-42c1-bd66-1010ca6f53e0",
+    "name": "i22 Watch 2010_blue",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 50
+  },
+  {
+    "ean": "7156196c-dec5-4b41-be2d-3d3c82bb2629",
+    "name": "i22 Watch 2010_teal",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "b34cc55f-c892-4d2c-a130-9eb64feb729d",
+    "name": "i22 Watch 2010_silver",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 40
+  },
+  {
+    "ean": "40377fb9-6b16-4dbb-ac08-eb6adf42e9c0",
+    "name": "i22 Watch 2010_black",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 80
+  },
+  {
+    "ean": "adc97d82-e1bb-4f18-9ef6-8f3e83d49d7a",
+    "name": "i22 Watch 2010_gold",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "e3cb18ce-65a6-4506-b12c-e8757f36893d",
+    "name": "i22 Watch 2010_transparent",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 70
+  },
+  {
+    "ean": "8677a7eb-107f-43a4-be8b-3d3a0058b386",
+    "name": "i22 Glass 2010_red",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 50
+  },
+  {
+    "ean": "bd1501ce-9e54-4796-ad28-ad483b73d9d6",
+    "name": "i22 Glass 2010_blue",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 80
+  },
+  {
+    "ean": "274bc8f1-6632-4492-83d4-f3944c4a80c7",
+    "name": "i22 Glass 2010_teal",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 10
+  },
+  {
+    "ean": "051ab939-5a4d-4d86-8ace-ee65e674db7b",
+    "name": "i22 Glass 2010_silver",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 50
+  },
+  {
+    "ean": "77fbeb52-6ca6-460c-9217-f3cd3eb5f4e9",
+    "name": "i22 Glass 2010_black",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 30
+  },
+  {
+    "ean": "4b39ef7c-0507-4f73-84d2-6d3e7f0877ee",
+    "name": "i22 Glass 2010_gold",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 10
+  },
+  {
+    "ean": "db6d1683-8a7d-4866-a324-6d355bd1d29b",
+    "name": "i22 Glass 2010_transparent",
+    "releaseYear": 2010,
+    "price": {
+      "current": 30150,
+      "was": 346725
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 70
+  },
+  {
+    "ean": "1a425936-bfed-4f23-a1eb-abeb48fe5a0f",
+    "name": "i22 Phone 2011_red",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "fd39c465-8f7e-4a01-9495-4417732fc265",
+    "name": "i22 Phone 2011_blue",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 66
+  },
+  {
+    "ean": "1d8ce0a6-5f51-473d-8f3f-efd145e949b3",
+    "name": "i22 Phone 2011_teal",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 99
+  },
+  {
+    "ean": "d62338ef-bfb2-4110-a60b-deeeafad18ee",
+    "name": "i22 Phone 2011_silver",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 77
+  },
+  {
+    "ean": "a2f54f8d-1a14-44e6-9f0e-1d47b3c7b03d",
+    "name": "i22 Phone 2011_black",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 11
+  },
+  {
+    "ean": "a2297219-47b8-4c12-9a76-9400434d0675",
+    "name": "i22 Phone 2011_gold",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 55
+  },
+  {
+    "ean": "079f3e43-2790-4dc4-968b-c1ea7f9af41f",
+    "name": "i22 Phone 2011_transparent",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 77
+  },
+  {
+    "ean": "616b75bc-a2b7-46c0-acaa-c640ccba37d2",
+    "name": "i22 Watch 2011_red",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 44
+  },
+  {
+    "ean": "cd2a2f01-f40a-4b3e-9c54-cf60ddbe628f",
+    "name": "i22 Watch 2011_blue",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 77
+  },
+  {
+    "ean": "b00f5c8e-3cd6-4aac-99bc-1d56a9fa735a",
+    "name": "i22 Watch 2011_teal",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "5d661d7a-c4d6-49f0-b6ae-fa8fc097ea8c",
+    "name": "i22 Watch 2011_silver",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 99
+  },
+  {
+    "ean": "c055ac21-989f-46ec-9d04-a6b8b58ef294",
+    "name": "i22 Watch 2011_black",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 33
+  },
+  {
+    "ean": "cb3970e3-59d5-4aed-b26e-66fa886d5956",
+    "name": "i22 Watch 2011_gold",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 33
+  },
+  {
+    "ean": "15465afb-f610-4a39-ae12-a879beada720",
+    "name": "i22 Watch 2011_transparent",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 22
+  },
+  {
+    "ean": "3ba47594-656b-4a48-a0b9-e136bf749ccd",
+    "name": "i22 Glass 2011_red",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 11
+  },
+  {
+    "ean": "db52aeb9-fb5b-4bb8-b0a5-ae969e06a816",
+    "name": "i22 Glass 2011_blue",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 99
+  },
+  {
+    "ean": "8585c85d-fcb1-426b-a3fd-8019517de722",
+    "name": "i22 Glass 2011_teal",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 99
+  },
+  {
+    "ean": "3ad50be6-e3b9-4924-aa02-c453f4a08639",
+    "name": "i22 Glass 2011_silver",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 22
+  },
+  {
+    "ean": "a09ab0a1-f6c3-414c-bcc3-bc7980ff991b",
+    "name": "i22 Glass 2011_black",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 22
+  },
+  {
+    "ean": "d3d52ed4-2660-4ef9-8ae1-04cf44b0932c",
+    "name": "i22 Glass 2011_gold",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165,
+      "was": 346897
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 66
+  },
+  {
+    "ean": "d21529f4-8c6b-4ec9-af3a-a6b0f8f81235",
+    "name": "i22 Glass 2011_transparent",
+    "releaseYear": 2011,
+    "price": {
+      "current": 30165
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 11
+  },
+  {
+    "ean": "a5c77012-8739-439b-95f5-06b46424e0a0",
+    "name": "i22 Phone 2012_red",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "74d2292f-0972-4f67-9592-1eecf23a4a36",
+    "name": "i22 Phone 2012_blue",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 84
+  },
+  {
+    "ean": "b33be5b6-5e33-4ace-bb8e-1715c401e508",
+    "name": "i22 Phone 2012_teal",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 36
+  },
+  {
+    "ean": "3cfa364e-1593-426b-b4c2-49d9e101fa93",
+    "name": "i22 Phone 2012_silver",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 12
+  },
+  {
+    "ean": "471157c1-d46a-4d6f-997b-fdb1302af791",
+    "name": "i22 Phone 2012_black",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 72
+  },
+  {
+    "ean": "8fe0e33d-ee99-40c1-80ba-b67437defd03",
+    "name": "i22 Phone 2012_gold",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 24
+  },
+  {
+    "ean": "deea95c7-9f98-45c4-9918-3918bcbb7df5",
+    "name": "i22 Phone 2012_transparent",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 36
+  },
+  {
+    "ean": "4e70b6f3-81ec-429f-87fa-2de520ae7467",
+    "name": "i22 Watch 2012_red",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 96
+  },
+  {
+    "ean": "7faec9a2-a0ad-4c23-87ba-e51a87b42a68",
+    "name": "i22 Watch 2012_blue",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "f4e87757-4f73-4390-b568-6fd9937b9194",
+    "name": "i22 Watch 2012_teal",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 36
+  },
+  {
+    "ean": "74f0c135-a192-42b3-a068-0814639dca4c",
+    "name": "i22 Watch 2012_silver",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "infinite"
+    },
+    "stock": 108
+  },
+  {
+    "ean": "ac3a3e04-462e-401b-9b0a-576c6f3dad29",
+    "name": "i22 Watch 2012_black",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 60
+  },
+  {
+    "ean": "f6752c8e-a516-4c22-a999-cc44b484dc03",
+    "name": "i22 Watch 2012_gold",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "8f7c22fc-710b-430b-8525-e5e1ce56600a",
+    "name": "i22 Watch 2012_transparent",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 84
+  },
+  {
+    "ean": "5c54a86f-cfaa-4c9e-953f-df4957194347",
+    "name": "i22 Glass 2012_red",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 72
+  },
+  {
+    "ean": "1db8b822-d9fe-4ffe-97b4-69111dce212d",
+    "name": "i22 Glass 2012_blue",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 60
+  },
+  {
+    "ean": "977312cf-e52a-4eb9-bcb8-f4f93d1b9051",
+    "name": "i22 Glass 2012_teal",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "infinite"
+    },
+    "stock": 96
+  },
+  {
+    "ean": "9740bb58-a712-4b3c-a01b-05ae4d1f345f",
+    "name": "i22 Glass 2012_silver",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 108
+  },
+  {
+    "ean": "321f70f1-4b72-4e14-8957-7701fad32825",
+    "name": "i22 Glass 2012_black",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 24
+  },
+  {
+    "ean": "a4b05ab4-ce64-4eee-afb1-98b4548eeaab",
+    "name": "i22 Glass 2012_gold",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 84
+  },
+  {
+    "ean": "3f9ba447-c432-4259-b7e4-ce1b804829fb",
+    "name": "i22 Glass 2012_transparent",
+    "releaseYear": 2012,
+    "price": {
+      "current": 30180,
+      "was": 347070
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "f584da73-c4f8-42bd-951f-d1061900ddc5",
+    "name": "i22 Phone 2013_red",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 26
+  },
+  {
+    "ean": "5af54d3e-af80-45cb-bd90-fc4303db0252",
+    "name": "i22 Phone 2013_blue",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 39
+  },
+  {
+    "ean": "7672d8e5-8497-4f0a-ba49-6b2e6746dd89",
+    "name": "i22 Phone 2013_teal",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 117
+  },
+  {
+    "ean": "c57374cf-8109-4834-8a10-471cdc2cac56",
+    "name": "i22 Phone 2013_silver",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 26
+  },
+  {
+    "ean": "c20eb9ef-4b6d-4681-b441-bfafec10641d",
+    "name": "i22 Phone 2013_black",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 52
+  },
+  {
+    "ean": "b6997848-3793-46a8-8ff3-686aa1946572",
+    "name": "i22 Phone 2013_gold",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 52
+  },
+  {
+    "ean": "cc52a7dd-efe0-403c-8406-5502e85603eb",
+    "name": "i22 Phone 2013_transparent",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 117
+  },
+  {
+    "ean": "ee770de2-e9f8-4d72-a560-0227e3181a48",
+    "name": "i22 Watch 2013_red",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 91
+  },
+  {
+    "ean": "24c895f1-85e2-49f9-94e5-939c1c0c68a9",
+    "name": "i22 Watch 2013_blue",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 65
+  },
+  {
+    "ean": "b0fd4f8d-8d48-4d4c-9875-68c0deb559e2",
+    "name": "i22 Watch 2013_teal",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 78
+  },
+  {
+    "ean": "507adb71-814c-43b8-bef8-8eabe33619ea",
+    "name": "i22 Watch 2013_silver",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 26
+  },
+  {
+    "ean": "bf841b74-b3ac-43ee-b7fc-2e36c6fb55b5",
+    "name": "i22 Watch 2013_black",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "9f0ca603-7836-4354-ba10-4b03b07cce9e",
+    "name": "i22 Watch 2013_gold",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 91
+  },
+  {
+    "ean": "c90a39ad-3834-4178-844b-68ef44f42bc3",
+    "name": "i22 Watch 2013_transparent",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 26
+  },
+  {
+    "ean": "f341dc93-94e5-4a25-a5d3-8fc3e3ed393d",
+    "name": "i22 Glass 2013_red",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 26
+  },
+  {
+    "ean": "36c830aa-c61d-4a0a-bcce-db1657059cf1",
+    "name": "i22 Glass 2013_blue",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 78
+  },
+  {
+    "ean": "b481e702-15d2-4e91-8261-9bd1a1bd281f",
+    "name": "i22 Glass 2013_teal",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 39
+  },
+  {
+    "ean": "0af9a923-5df6-4cf9-9283-134586cc1c76",
+    "name": "i22 Glass 2013_silver",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 65
+  },
+  {
+    "ean": "f73cca81-d282-401e-8640-542fec1398c1",
+    "name": "i22 Glass 2013_black",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 13
+  },
+  {
+    "ean": "d47aa6f7-05d8-433e-9294-20ce55e8827a",
+    "name": "i22 Glass 2013_gold",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 104
+  },
+  {
+    "ean": "f6aeb9d6-4909-41b9-a233-d76e29a5ec2d",
+    "name": "i22 Glass 2013_transparent",
+    "releaseYear": 2013,
+    "price": {
+      "current": 30195,
+      "was": 347242
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 26
+  },
+  {
+    "ean": "090f1b94-6e24-45ae-9a1a-5f2354e859da",
+    "name": "i22 Phone 2014_red",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "3180e77b-6e7f-48e7-924e-de3e9df803f2",
+    "name": "i22 Phone 2014_blue",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "infinite"
+    },
+    "stock": 112
+  },
+  {
+    "ean": "3f1fe803-af8f-4366-944c-38f46438ec8c",
+    "name": "i22 Phone 2014_teal",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 14
+  },
+  {
+    "ean": "39188cee-ed73-4268-a6f7-a3ebea5c422a",
+    "name": "i22 Phone 2014_silver",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 126
+  },
+  {
+    "ean": "54dc0928-ec28-46b7-9731-a5c8bd066638",
+    "name": "i22 Phone 2014_black",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 14
+  },
+  {
+    "ean": "1a4e13e0-6c3b-437d-8520-d3a47d40485b",
+    "name": "i22 Phone 2014_gold",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 126
+  },
+  {
+    "ean": "cb0a9dab-d202-4132-8a4b-f67bab680de8",
+    "name": "i22 Phone 2014_transparent",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 70
+  },
+  {
+    "ean": "2ce7ed6d-2c30-44e3-a866-1a6adc235137",
+    "name": "i22 Watch 2014_red",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 42
+  },
+  {
+    "ean": "25582c0d-88ca-4790-a58e-7500091ab7be",
+    "name": "i22 Watch 2014_blue",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 42
+  },
+  {
+    "ean": "a918dc2e-76b7-4924-ac4a-8f8d0be32ae2",
+    "name": "i22 Watch 2014_teal",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 84
+  },
+  {
+    "ean": "7c6409d0-6d80-41bc-a910-5833fa895b6f",
+    "name": "i22 Watch 2014_silver",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 42
+  },
+  {
+    "ean": "c8a961cc-46b7-4088-8319-f8e2df1ddbb0",
+    "name": "i22 Watch 2014_black",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 70
+  },
+  {
+    "ean": "4ff4cda3-baae-4c61-84e2-023001c77077",
+    "name": "i22 Watch 2014_gold",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 84
+  },
+  {
+    "ean": "6e0d2125-403e-4778-8b0a-66df47ad071e",
+    "name": "i22 Watch 2014_transparent",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 70
+  },
+  {
+    "ean": "377370e8-6bec-49ce-b32c-1ab7ae04718d",
+    "name": "i22 Glass 2014_red",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 126
+  },
+  {
+    "ean": "4721c11c-15c4-4ac9-9d92-4daf73f24ee5",
+    "name": "i22 Glass 2014_blue",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 84
+  },
+  {
+    "ean": "87675cae-c290-4d64-af51-ec2731635fb8",
+    "name": "i22 Glass 2014_teal",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "26df4266-6033-4978-9b2d-4d231b0d1d66",
+    "name": "i22 Glass 2014_silver",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 112
+  },
+  {
+    "ean": "b2554260-6b50-43e5-8fe8-27011be14540",
+    "name": "i22 Glass 2014_black",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 56
+  },
+  {
+    "ean": "71ad0254-abae-47c4-9717-6837eaf36207",
+    "name": "i22 Glass 2014_gold",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210,
+      "was": 347415
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 112
+  },
+  {
+    "ean": "cc6d1753-f336-4d2f-8a28-0cbaccbad9bf",
+    "name": "i22 Glass 2014_transparent",
+    "releaseYear": 2014,
+    "price": {
+      "current": 30210
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 98
+  },
+  {
+    "ean": "eac5fea7-248f-4aa0-ac83-1b2ab756ed7f",
+    "name": "i22 Phone 2015_red",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "11de9ba2-6f52-43e4-9642-7b8d4da5d955",
+    "name": "i22 Phone 2015_blue",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 75
+  },
+  {
+    "ean": "eb25f0ce-a83a-40a9-862b-522da21e7c0e",
+    "name": "i22 Phone 2015_teal",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 30
+  },
+  {
+    "ean": "2c2da4b8-4364-430f-bb9c-ff8bbee9eee0",
+    "name": "i22 Phone 2015_silver",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "595ea763-62ad-42c1-a430-c72337ffedca",
+    "name": "i22 Phone 2015_black",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 60
+  },
+  {
+    "ean": "7d522717-3277-434a-beb9-2465b536e1e0",
+    "name": "i22 Phone 2015_gold",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 135
+  },
+  {
+    "ean": "edaed269-208f-48ae-8189-5a6f4ae51f4c",
+    "name": "i22 Phone 2015_transparent",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 90
+  },
+  {
+    "ean": "c47d7124-283e-4990-bbcb-3d25b0433948",
+    "name": "i22 Watch 2015_red",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "b4004e7f-3786-46f3-99c5-7e3aa5c4dbe5",
+    "name": "i22 Watch 2015_blue",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 120
+  },
+  {
+    "ean": "583628dd-c317-4970-b473-70a7e9125418",
+    "name": "i22 Watch 2015_teal",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 60
+  },
+  {
+    "ean": "9ee45356-bdfd-4c9b-a96b-0592e633f797",
+    "name": "i22 Watch 2015_silver",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 15
+  },
+  {
+    "ean": "4be3b497-0d09-4052-999e-5a9439311cdd",
+    "name": "i22 Watch 2015_black",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "infinite"
+    },
+    "stock": 75
+  },
+  {
+    "ean": "81712e20-6455-44a9-ad57-0e2e052d5792",
+    "name": "i22 Watch 2015_gold",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 60
+  },
+  {
+    "ean": "c5da4b58-f17c-4532-bcb6-869eb63770ba",
+    "name": "i22 Watch 2015_transparent",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 15
+  },
+  {
+    "ean": "cc5188de-f8ff-450d-8074-90b2f8dc04dc",
+    "name": "i22 Glass 2015_red",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "3a0c716c-255c-47f9-b561-b2cd311ef910",
+    "name": "i22 Glass 2015_blue",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 45
+  },
+  {
+    "ean": "aa78e5a7-4166-46e9-90c9-567c0e13d67a",
+    "name": "i22 Glass 2015_teal",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 60
+  },
+  {
+    "ean": "3d2912ff-27fb-4757-8ea8-a68642fbd429",
+    "name": "i22 Glass 2015_silver",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 90
+  },
+  {
+    "ean": "b385b6b8-2178-43c2-b2c1-2d69632ca1f3",
+    "name": "i22 Glass 2015_black",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 105
+  },
+  {
+    "ean": "4c1d3a6f-c00f-4a56-ac38-1374c6d708f3",
+    "name": "i22 Glass 2015_gold",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 120
+  },
+  {
+    "ean": "7c72bed4-ee6e-4a02-8458-e23a80a4ae03",
+    "name": "i22 Glass 2015_transparent",
+    "releaseYear": 2015,
+    "price": {
+      "current": 30225,
+      "was": 347587
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 75
+  },
+  {
+    "ean": "82afc591-022a-4cba-9d40-c40429dea4f0",
+    "name": "i22 Phone 2016_red",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 128
+  },
+  {
+    "ean": "f0232104-e921-43fa-bbea-764bb8dd502b",
+    "name": "i22 Phone 2016_blue",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 112
+  },
+  {
+    "ean": "e763f0db-0bec-42f9-a370-1ee3c74f4c46",
+    "name": "i22 Phone 2016_teal",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 144
+  },
+  {
+    "ean": "585db79a-8749-455b-be6f-ead00abd6229",
+    "name": "i22 Phone 2016_silver",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 64
+  },
+  {
+    "ean": "ede46827-44c5-426c-8dcf-bf80c4ded039",
+    "name": "i22 Phone 2016_black",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 96
+  },
+  {
+    "ean": "23a7c2cf-928c-40e8-996f-e21e12c36f91",
+    "name": "i22 Phone 2016_gold",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 144
+  },
+  {
+    "ean": "8e5607cf-e0c6-41b4-a5bb-4b2541c03c63",
+    "name": "i22 Phone 2016_transparent",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 80
+  },
+  {
+    "ean": "07ac9dba-5110-490c-acf1-1e57097f733b",
+    "name": "i22 Watch 2016_red",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 16
+  },
+  {
+    "ean": "2f8a5967-dda0-466c-b183-e5e377934fb6",
+    "name": "i22 Watch 2016_blue",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 80
+  },
+  {
+    "ean": "ac5d9708-c541-4b7c-a3ec-58870a0f03d4",
+    "name": "i22 Watch 2016_teal",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 112
+  },
+  {
+    "ean": "0082ed90-82b2-4ee4-bd40-a7463fbb46b6",
+    "name": "i22 Watch 2016_silver",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "b8dcdab4-4983-42d1-9d89-8b80cbc864e8",
+    "name": "i22 Watch 2016_black",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 96
+  },
+  {
+    "ean": "61861bc6-f9ca-4157-b42d-6307d3b84d92",
+    "name": "i22 Watch 2016_gold",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "8721293c-7d04-4faf-aa75-af872c665a76",
+    "name": "i22 Watch 2016_transparent",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "0871aa3e-e1ed-48b9-b127-2114fbef89fd",
+    "name": "i22 Glass 2016_red",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "bc44bb37-8a59-4298-94ae-12c6dee0aa16",
+    "name": "i22 Glass 2016_blue",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 144
+  },
+  {
+    "ean": "fdf4fc1a-f676-43bc-8613-4059ff0f7462",
+    "name": "i22 Glass 2016_teal",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 48
+  },
+  {
+    "ean": "bcb3c536-7bc5-46a3-9c96-b0d95d562720",
+    "name": "i22 Glass 2016_silver",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 16
+  },
+  {
+    "ean": "e90888fc-7e10-4db3-98f6-adebbd856616",
+    "name": "i22 Glass 2016_black",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 128
+  },
+  {
+    "ean": "5c2e82c9-1e26-4a28-b88a-6beb7a45d08d",
+    "name": "i22 Glass 2016_gold",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 144
+  },
+  {
+    "ean": "44d9a8be-cc67-428c-a848-aabd5809f04d",
+    "name": "i22 Glass 2016_transparent",
+    "releaseYear": 2016,
+    "price": {
+      "current": 30240,
+      "was": 347760
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 144
+  },
+  {
+    "ean": "5f16ea36-dcc4-4367-baf1-ae2054b54133",
+    "name": "i22 Phone 2017_red",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 153
+  },
+  {
+    "ean": "8d250f0e-14bb-488f-b5ac-dee1a657d8b1",
+    "name": "i22 Phone 2017_blue",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 153
+  },
+  {
+    "ean": "c3ae7ade-b086-4e76-a4fa-8d7686c8d515",
+    "name": "i22 Phone 2017_teal",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "30fa9bab-fa10-4414-85a8-4db59dc95e68",
+    "name": "i22 Phone 2017_silver",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 136
+  },
+  {
+    "ean": "a6d6224d-05af-43ff-97f9-220e071a40a0",
+    "name": "i22 Phone 2017_black",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 119
+  },
+  {
+    "ean": "8e0f3b83-46b3-4a9e-95b7-29294c85d91d",
+    "name": "i22 Phone 2017_gold",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 119
+  },
+  {
+    "ean": "1720e314-371b-4b3c-96cc-17d0f26f5880",
+    "name": "i22 Phone 2017_transparent",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 102
+  },
+  {
+    "ean": "3268d959-5c85-4f25-a799-6e5986b0a812",
+    "name": "i22 Watch 2017_red",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 68
+  },
+  {
+    "ean": "86fa8064-7747-49d0-a0e5-7ff0ca154f01",
+    "name": "i22 Watch 2017_blue",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 17
+  },
+  {
+    "ean": "1d23662b-a22b-4e54-9ea9-2ab0580ac065",
+    "name": "i22 Watch 2017_teal",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 85
+  },
+  {
+    "ean": "703a4950-f471-4a75-96fc-7241a71efe68",
+    "name": "i22 Watch 2017_silver",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 51
+  },
+  {
+    "ean": "3ffff91f-0a94-475b-9e32-e168beb36d59",
+    "name": "i22 Watch 2017_black",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 153
+  },
+  {
+    "ean": "0442c999-9337-4b40-b8bc-f8733c616d29",
+    "name": "i22 Watch 2017_gold",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 85
+  },
+  {
+    "ean": "84817d5b-03b5-44be-8d53-9713d0b2926e",
+    "name": "i22 Watch 2017_transparent",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 85
+  },
+  {
+    "ean": "6f1b5548-134c-42c0-839e-402c2bddb402",
+    "name": "i22 Glass 2017_red",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 153
+  },
+  {
+    "ean": "a7f506c0-db3d-44ee-8864-6d4f6949766c",
+    "name": "i22 Glass 2017_blue",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 34
+  },
+  {
+    "ean": "5c0bff41-4812-43e2-a1ef-5b16b4e7cbe8",
+    "name": "i22 Glass 2017_teal",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 119
+  },
+  {
+    "ean": "24b7bd6e-7a14-4495-bd6d-8198d448467b",
+    "name": "i22 Glass 2017_silver",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 85
+  },
+  {
+    "ean": "63b41f65-8d46-425a-aabc-47b9da153219",
+    "name": "i22 Glass 2017_black",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 34
+  },
+  {
+    "ean": "f2ff2257-3a40-4dca-b18e-dba917f7758b",
+    "name": "i22 Glass 2017_gold",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 51
+  },
+  {
+    "ean": "6fb945b2-679f-42e9-8f8a-6002a44dff1a",
+    "name": "i22 Glass 2017_transparent",
+    "releaseYear": 2017,
+    "price": {
+      "current": 30255,
+      "was": 347932
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 85
+  },
+  {
+    "ean": "ea992525-5d53-4952-8935-6413a5ae02bd",
+    "name": "i22 Phone 2018_red",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 144
+  },
+  {
+    "ean": "65600ad5-ccc5-49d3-8ea7-037e6141ac66",
+    "name": "i22 Phone 2018_blue",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 72
+  },
+  {
+    "ean": "4f57b546-debc-4cfc-be4b-507a28c2018f",
+    "name": "i22 Phone 2018_teal",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 54
+  },
+  {
+    "ean": "cc2ddb09-d8a9-4e10-8948-3458fe40573b",
+    "name": "i22 Phone 2018_silver",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 54
+  },
+  {
+    "ean": "a35ca14f-c037-4dc2-9539-67e0c5817f40",
+    "name": "i22 Phone 2018_black",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 54
+  },
+  {
+    "ean": "277b0c5b-36dd-4861-ac32-91aa2879b7e5",
+    "name": "i22 Phone 2018_gold",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 36
+  },
+  {
+    "ean": "55fc4683-adfe-4869-a014-4a83f95f9dfc",
+    "name": "i22 Phone 2018_transparent",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 72
+  },
+  {
+    "ean": "49495b2a-7c2f-44a5-bb39-23784a7c5189",
+    "name": "i22 Watch 2018_red",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 126
+  },
+  {
+    "ean": "58da38be-ea55-4b30-b299-e4e22b52744a",
+    "name": "i22 Watch 2018_blue",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 144
+  },
+  {
+    "ean": "f493da00-6d35-4b17-94ef-004a001b159c",
+    "name": "i22 Watch 2018_teal",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 90
+  },
+  {
+    "ean": "9d5b730e-c555-4d8d-b687-63df0a68a7ec",
+    "name": "i22 Watch 2018_silver",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 54
+  },
+  {
+    "ean": "84936816-855d-46c0-9197-4dc91f3dacee",
+    "name": "i22 Watch 2018_black",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 162
+  },
+  {
+    "ean": "73c90d01-0a07-430e-87fe-7c1c626a47da",
+    "name": "i22 Watch 2018_gold",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 162
+  },
+  {
+    "ean": "0d6ee96c-558d-4bb7-893e-abc77cdc8ef8",
+    "name": "i22 Watch 2018_transparent",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "96d5f012-d32b-44cf-b6f8-3f698532cbb1",
+    "name": "i22 Glass 2018_red",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 108
+  },
+  {
+    "ean": "387ce5a0-ed5a-43d1-b66b-911cf234a4b8",
+    "name": "i22 Glass 2018_blue",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "infinite"
+    },
+    "stock": 90
+  },
+  {
+    "ean": "8cacbb04-4273-4991-95e2-bf4a7dac5a9b",
+    "name": "i22 Glass 2018_teal",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 108
+  },
+  {
+    "ean": "8ffe13ab-0eb1-471c-b9ae-94782c98a1de",
+    "name": "i22 Glass 2018_silver",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 72
+  },
+  {
+    "ean": "49197e39-a7dc-4dc2-b06e-decd281a627a",
+    "name": "i22 Glass 2018_black",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 18
+  },
+  {
+    "ean": "2cbfc8ac-1179-457a-8ed8-e7c7defc9a17",
+    "name": "i22 Glass 2018_gold",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "infinite"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "55c81164-0be1-44f5-985a-6ddd2b6c37f6",
+    "name": "i22 Glass 2018_transparent",
+    "releaseYear": 2018,
+    "price": {
+      "current": 30270,
+      "was": 348105
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 126
+  },
+  {
+    "ean": "c681c416-5ad8-4253-a0d3-c77cb64eeb59",
+    "name": "i22 Phone 2019_red",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 95
+  },
+  {
+    "ean": "49491fa5-f5c5-4ee5-8c4b-23aeebcd1bec",
+    "name": "i22 Phone 2019_blue",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 114
+  },
+  {
+    "ean": "bb367533-b98f-466f-85d6-75312a10ede1",
+    "name": "i22 Phone 2019_teal",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 171
+  },
+  {
+    "ean": "361884f1-c774-4cfc-ba5f-a824ee76d8e3",
+    "name": "i22 Phone 2019_silver",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 19
+  },
+  {
+    "ean": "86776039-d7d1-400c-ba61-22d0e9644763",
+    "name": "i22 Phone 2019_black",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "infinite"
+    },
+    "stock": 76
+  },
+  {
+    "ean": "f6be94df-b167-432d-af74-faef04cdafb1",
+    "name": "i22 Phone 2019_gold",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 171
+  },
+  {
+    "ean": "ece58d43-dfc1-485e-83f4-ab651a2e4915",
+    "name": "i22 Phone 2019_transparent",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 38
+  },
+  {
+    "ean": "7dbf9c68-e4c9-48c7-936c-bd060fa0d3de",
+    "name": "i22 Watch 2019_red",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 76
+  },
+  {
+    "ean": "2d6dde34-3c59-43b6-8b3b-f7d6d7bf4391",
+    "name": "i22 Watch 2019_blue",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "big"
+    },
+    "stock": 152
+  },
+  {
+    "ean": "259e52e8-9efa-45d8-aa3e-127c0b05167e",
+    "name": "i22 Watch 2019_teal",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 171
+  },
+  {
+    "ean": "8354ebbd-76aa-4423-9cc5-3daf666fc86e",
+    "name": "i22 Watch 2019_silver",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 152
+  },
+  {
+    "ean": "cf804fe3-4f40-4ce2-bf02-0fc2e83dc860",
+    "name": "i22 Watch 2019_black",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 76
+  },
+  {
+    "ean": "97f94147-3501-4b04-9fc0-4f3e9aca71b5",
+    "name": "i22 Watch 2019_gold",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 76
+  },
+  {
+    "ean": "acd9f00d-3ed7-49fd-8cba-8c080e3652cd",
+    "name": "i22 Watch 2019_transparent",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 171
+  },
+  {
+    "ean": "bc0bf1d7-66f4-41f4-a968-49fec5d2d758",
+    "name": "i22 Glass 2019_red",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 95
+  },
+  {
+    "ean": "307b2fe8-8315-4dde-b7e1-0a26a6c144f2",
+    "name": "i22 Glass 2019_blue",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 152
+  },
+  {
+    "ean": "442b5238-8464-468c-833a-073dc1576e79",
+    "name": "i22 Glass 2019_teal",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "big"
+    },
+    "stock": 57
+  },
+  {
+    "ean": "bdbda8e3-a2dc-4c8a-a409-3bfd3de517fe",
+    "name": "i22 Glass 2019_silver",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "small"
+    },
+    "stock": 0
+  },
+  {
+    "ean": "696de5fe-b026-4085-bd17-a6f919b4d12f",
+    "name": "i22 Glass 2019_black",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "big"
+    },
+    "stock": 152
+  },
+  {
+    "ean": "8e54bd3a-485e-4fd1-9569-917a42ee6a5f",
+    "name": "i22 Glass 2019_gold",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 114
+  },
+  {
+    "ean": "775944e1-3e57-476b-9db0-5bda5e2d2ee6",
+    "name": "i22 Glass 2019_transparent",
+    "releaseYear": 2019,
+    "price": {
+      "current": 30285,
+      "was": 348277
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "infinite"
+    },
+    "stock": 152
+  },
+  {
+    "ean": "a89dbf8c-9b09-4850-b934-d5d216ff4781",
+    "name": "i22 Phone 2020_red",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "big"
+    },
+    "stock": 120
+  },
+  {
+    "ean": "b4d079f2-a125-40e7-aa5b-52b439224efd",
+    "name": "i22 Phone 2020_blue",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "medium"
+    },
+    "stock": 60
+  },
+  {
+    "ean": "c83d3ca6-ba39-446e-bc11-42b73f501249",
+    "name": "i22 Phone 2020_teal",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "small"
+    },
+    "stock": 180
+  },
+  {
+    "ean": "153dd17b-30cf-4bf2-a1e6-0ab2e9b15526",
+    "name": "i22 Phone 2020_silver",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 120
+  },
+  {
+    "ean": "cecdaf1d-9600-4006-8ff5-d5476eaa9cbb",
+    "name": "i22 Phone 2020_black",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 140
+  },
+  {
+    "ean": "5ef77aeb-0ca7-45d1-ab58-c67aecca3604",
+    "name": "i22 Phone 2020_gold",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 80
+  },
+  {
+    "ean": "d4d1c8ee-a1ed-46e8-b12c-1ce1f69cf6e0",
+    "name": "i22 Phone 2020_transparent",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Smartphone",
+      "2FA",
+      "GPS"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "small"
+    },
+    "stock": 40
+  },
+  {
+    "ean": "317ef5fa-0a4f-4713-97cc-0749fb13b954",
+    "name": "i22 Watch 2020_red",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 160
+  },
+  {
+    "ean": "b7a6439e-cb14-4f9c-813f-4e1912ed055c",
+    "name": "i22 Watch 2020_blue",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 160
+  },
+  {
+    "ean": "5370e931-fc38-4336-a326-b314c4309b6e",
+    "name": "i22 Watch 2020_teal",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "medium"
+    },
+    "stock": 120
+  },
+  {
+    "ean": "12201dec-f064-4c7a-9e5a-413023261dfb",
+    "name": "i22 Watch 2020_silver",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "small"
+    },
+    "stock": 180
+  },
+  {
+    "ean": "e127f005-d8d0-4c41-a5e2-a5eb7649d393",
+    "name": "i22 Watch 2020_black",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "small"
+    },
+    "stock": 160
+  },
+  {
+    "ean": "f640c458-a402-4b60-a804-31fcd00f3511",
+    "name": "i22 Watch 2020_gold",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "32GB",
+      "battery": "medium"
+    },
+    "stock": 120
+  },
+  {
+    "ean": "b03e888f-677b-455b-bd35-21353c0a8f26",
+    "name": "i22 Watch 2020_transparent",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Time",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "big"
+    },
+    "stock": 40
+  },
+  {
+    "ean": "45d0821e-11b9-414e-bcee-0bc51f08d310",
+    "name": "i22 Glass 2020_red",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "red",
+    "technicalDetails": {
+      "memory": "16KB",
+      "battery": "medium"
+    },
+    "stock": 80
+  },
+  {
+    "ean": "f3224d04-a158-4c0e-9b1a-5c784edd809c",
+    "name": "i22 Glass 2020_blue",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "blue",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 60
+  },
+  {
+    "ean": "2387be31-8b95-4898-950a-9c601f3be439",
+    "name": "i22 Glass 2020_teal",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "teal",
+    "technicalDetails": {
+      "memory": "1TB",
+      "battery": "medium"
+    },
+    "stock": 20
+  },
+  {
+    "ean": "cb626edf-0321-4667-95cf-cbaba9a9497c",
+    "name": "i22 Glass 2020_silver",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "silver",
+    "technicalDetails": {
+      "memory": "16GB",
+      "battery": "big"
+    },
+    "stock": 40
+  },
+  {
+    "ean": "6b128872-1fe4-491d-b1af-d797ce9a5263",
+    "name": "i22 Glass 2020_black",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "black",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "small"
+    },
+    "stock": 80
+  },
+  {
+    "ean": "1b1f598a-95bc-47fa-afa0-399cf85e8c79",
+    "name": "i22 Glass 2020_gold",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "gold",
+    "technicalDetails": {
+      "memory": "512GB",
+      "battery": "infinite"
+    },
+    "stock": 40
+  },
+  {
+    "ean": "bda66b6e-0e4d-4ba3-afbe-38c3acdece32",
+    "name": "i22 Glass 2020_transparent",
+    "releaseYear": 2020,
+    "price": {
+      "current": 30300,
+      "was": 348450
+    },
+    "categories": [
+      "Medical",
+      "Wearable"
+    ],
+    "color": "transparent",
+    "technicalDetails": {
+      "memory": "2GB",
+      "battery": "medium"
+    },
+    "stock": 160
+  }
+]
