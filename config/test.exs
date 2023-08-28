@@ -6,8 +6,8 @@ import Config
 # to provide built-in test partitioning in CI environment.
 # Run `mix help test` for more information.
 config :shoplifters_elixirs, ShopliftersElixirs.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "admin",
+  password: "password",
   hostname: "localhost",
   database: "shoplifters_elixirs_test#{System.get_env("MIX_TEST_PARTITION")}",
   pool: Ecto.Adapters.SQL.Sandbox,
