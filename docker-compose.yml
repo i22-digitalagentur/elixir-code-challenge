@@ -1,0 +1,27 @@
+version: "3"
+
+services:
+  postgres:
+    container_name: probearbeit_postgres
+    image: postgres:14
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_DB: shoplifters_elixirs_dev
+      POSTGRES_PASSWORD: password
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+  pgadmin4:
+    image: dpage/pgadmin4
+    ports:
+      - 8080:80
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=test@test.com
+      - PGADMIN_DEFAULT_PASSWORD=test
+    volumes:
+      - pgadmin4_data:/var/lib/pgadmin
+      - ./docker/pgadmin4/servers.json:/pgadmin4/servers.json
+volumes:
+  pg_data:
+  pgadmin4_data:
